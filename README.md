@@ -30,6 +30,13 @@ This is a simple web application built with **Java Spring Boot** as part of the 
 - H2 Database
 - Bootstrap 5
 
+##🚀 How to Build and Run (using Spring Tool Suite)
+
+Clone or import project into Spring Tool Suite (STS)
+File → Import → Maven > Existing Maven Projects → Select project folder.
+
+Run the application
+In the Boot Dashboard or via Run As > Spring Boot App.
 Access the app:
 
 Game List: http://localhost:8080/games
